@@ -52,3 +52,4 @@ public class Question_07_14 {
         System.out.println("The greatest common divisor is " + gcd);
     }
 }
+
